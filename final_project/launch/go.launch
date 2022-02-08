@@ -1,0 +1,6 @@
+<launch>
+    <rosparam file="$(find final_project)/param/param_comm.yaml" command="load" />
+    <node pkg="final_project" type="final_project_broadcaster" name="broadcaster" />
+    <node pkg="final_project" type="final_project_listener" name="listener" />
+    <node pkg="final_project" type="final_project_node" name="main" output="screen" />
+</launch>

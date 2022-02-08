@@ -1,0 +1,8 @@
+prefix=/home/rutvik08/catkin_ws/src/final_project/build/devel
+
+Name: final_project
+Description: Description of final_project
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
