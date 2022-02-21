@@ -21,7 +21,7 @@ cd ~/catkin_ws
 ```
 2. Clone this repository:
 ```bash
-git clone https://github.com/Rutvik081/Simplified-Urban-Search-and-Rescue-ROS-Cpp.git
+git clone https://github.com/Darshan-jain98/Simplified-USR_ROS.git
 ```
 4. Build your catkin workspace:
 ```bash
